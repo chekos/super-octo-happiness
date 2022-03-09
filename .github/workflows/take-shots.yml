@@ -15,8 +15,8 @@ jobs:
         cache: pip
     - name: Install dependencies
       run: |
-        pip install shot-scraper
-    - name: Run tests
+        pip install -r requirements.txt
+    - name: Run shot-scraper
       run: |
         playwright install
         shot-scraper shots.yml
