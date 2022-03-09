@@ -1,2 +1,2 @@
 # super-octo-happiness
-Testing shot-scraper
+Testing [simonw/shot-scraper](https://GitHub.com/simonw/shot-scraper)
