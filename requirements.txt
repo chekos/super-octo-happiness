@@ -1,2 +1,1 @@
-shot-scraper==0.1a0
-playwright
+shot-scraper
